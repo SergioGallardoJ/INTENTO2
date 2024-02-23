@@ -13,7 +13,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.maven.Main.MainInterfaz</mainClass> //CAMBIAR EL PACKAGE 
+                            <mainClass>Main.MainInterfaz</mainClass> //CAMBIAR EL PACKAGE 
                         </manifest>
                     </archive>
                     <descriptorRefs>
